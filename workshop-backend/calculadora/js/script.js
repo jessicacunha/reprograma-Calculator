@@ -3,7 +3,7 @@ var inputHoras = document.querySelector("#horas-dia")
 var resultado = document.querySelector("#resposta")
 
 function calcularValorHora() {
-
+ 
     var salario = inputSalario.valueAsNumber
     var horas = inputHoras.valueAsNumber
 
